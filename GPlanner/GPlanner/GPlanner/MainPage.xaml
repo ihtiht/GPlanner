@@ -4,7 +4,7 @@
              xmlns:local="clr-namespace:GPlanner"
              x:Class="GPlanner.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
+	<Label Text="GPlanner" 
            VerticalOptions="Center" 
            HorizontalOptions="Center" />
 
